@@ -1,0 +1,5 @@
+{
+  "name": "ATS Resume Matcher",
+  "description": "A full-stack AI-powered ATS resume matching tool with JWT authentication, PDF parsing, and match history tracking.",
+  "requestFramePermissions": []
+}
